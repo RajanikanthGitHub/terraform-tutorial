@@ -1,0 +1,6 @@
+ec2_instance_type = "t2.micro"
+ec2_ami_id = "ami-00399ec92321828f5"
+name = "Ubunut-USE2"
+os = "Linux"
+environment  = "DEV"
+app_id ="12345"
