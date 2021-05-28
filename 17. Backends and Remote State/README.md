@@ -26,5 +26,5 @@ backends only store state, and rely on the local backend for performing operatio
 
 ```terraform
 terraform plan -var-file dev.tfvars 
-terrafrom apply -var-file dev.tfvars -auto-complete
+terraform apply -var-file dev.tfvars -auto-complete
 ```
