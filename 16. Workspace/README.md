@@ -1,5 +1,6 @@
+<h1>
 What is Terraform Workspace?
-
+</H1>
 Workspaces are Collections of Infrastructure.
 Workspaces allows you same configuration with different environments.
 Working with Terraform involves managing collections of infrastructure resources, and most organizations manage many different collections.
